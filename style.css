@@ -11,7 +11,9 @@
 
 .bigTitle{
   text-align: center;
-  color: rgba(00, 00, 00, 1);
+  color: rgb(0, 0, 0);
+  margin-left: 350px;
+  margin-right: 350px;
 }
 
 .subtitle{
@@ -196,4 +198,8 @@ th {
 /* Show the dropdown menu on hover */
 .dropdown:hover .dropdown-content {
   display: block;
+}
+
+.backImage {
+  background-image: url(/Pictures/asianBackground.jpg);
 }
